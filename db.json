@@ -1,0 +1,39 @@
+{
+  "attributes": [
+    {
+      "name": "A1",
+      "value": "V1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "A2",
+      "value": "V2"
+    },
+    {
+      "id": "3",
+      "name": "A3",
+      "value": "V3"
+    },
+    {
+      "id": "4",
+      "name": "A4",
+      "value": "V4"
+    },
+    {
+      "id": "5",
+      "name": "A5",
+      "value": "V5"
+    },
+    {
+      "name": "A7",
+      "value": "V7",
+      "id": "7"
+    },
+    {
+      "name": "A8",
+      "value": "V8",
+      "id": "HwGMXqJ"
+    }
+  ]
+}
